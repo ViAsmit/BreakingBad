@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/breakingbad/static/css/main.77707bb5.chunk.css",
+    "main.js": "/breakingbad/static/js/main.48f155b1.chunk.js",
+    "main.js.map": "/breakingbad/static/js/main.48f155b1.chunk.js.map",
+    "runtime-main.js": "/breakingbad/static/js/runtime-main.c1e00f7b.js",
+    "runtime-main.js.map": "/breakingbad/static/js/runtime-main.c1e00f7b.js.map",
+    "static/js/2.56ba7774.chunk.js": "/breakingbad/static/js/2.56ba7774.chunk.js",
+    "static/js/2.56ba7774.chunk.js.map": "/breakingbad/static/js/2.56ba7774.chunk.js.map",
+    "index.html": "/breakingbad/index.html",
+    "static/css/main.77707bb5.chunk.css.map": "/breakingbad/static/css/main.77707bb5.chunk.css.map",
+    "static/js/2.56ba7774.chunk.js.LICENSE.txt": "/breakingbad/static/js/2.56ba7774.chunk.js.LICENSE.txt",
+    "static/media/search.09cde79f.jpg": "/breakingbad/static/media/search.09cde79f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1e00f7b.js",
+    "static/js/2.56ba7774.chunk.js",
+    "static/css/main.77707bb5.chunk.css",
+    "static/js/main.48f155b1.chunk.js"
+  ]
+}
